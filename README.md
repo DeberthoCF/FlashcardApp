@@ -9,7 +9,7 @@
 
 ### App Walk-though
 
-<img src="https://github.com/DeberthoCF/FlashcardApp/blob/master/Gif.gif.mp4" width=200><br>
+<img src="https://github.com/DeberthoCF/FlashcardApp/blob/master/walkthrough.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
