@@ -4,9 +4,6 @@
 
 ## Lab 1
 
-### App Description
-`TODO://`Flashcard App is a simple Android app built with Jetpack Compose. It allows users to learn and test their knowledge through interactive flashcards. The app offers navigation between cards and uses Material3 design for a modern and smooth interface.
-
 ### App Walk-though
 
 <img src="https://github.com/DeberthoCF/FlashcardApp/blob/master/walkthrough.gif" width=200><br>
